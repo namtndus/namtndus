@@ -22,6 +22,9 @@
 ### project
 - [study-more (24.05 - 24.07)](https://github.com/goorm-6th-Als/Smore_StudyMore_BE)
 
+### etc
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namtndus)](https://solved.ac/namtndus/)
+
 <!---
 namtndus/namtndus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
