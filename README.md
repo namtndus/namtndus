@@ -15,11 +15,12 @@
 <br/>
 
 ### active
-- CS-study (23.01 - 24.06)
+- [CS-study (23.01 - 24.06)](https://github.com/devSquad-study/2023-CS-Study)
 - [구름X인프런] 자바 스프링 & 리액트 풀스택 개발자 성장 과정 6기 (23.12 - 24.07)
 - 글또 10기 (24.09 -)
 
 ### project
+- [study-more (24.05 - 24.07)](https://github.com/goorm-6th-Als/Smore_StudyMore_BE)
 
 <!---
 namtndus/namtndus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
