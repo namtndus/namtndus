@@ -1,7 +1,24 @@
-- 👋 안녕하세요 저는 백엔드 개발자를 목표로 하는 남수연입니다
-- 👀 저는 HTML과 CSS, Javascript, JAVA을 사용하여 프로젝트를 완성하는 것을 좋아합니다
-- 🌱 애용하는 프레임워크는 React와 Spring boot입니다
-- 💞️ 궁금한 기술이 있으면 할수 있으면 직접 만들어 보는 것을 추구합니다
+### MY INFO
+안녕하세요 예비 백엔드 개발자, 남수연입니다.<br/>
+**서버의 최적화** 시키는 과정을 공부하여, **성능을 향상** 시키는 것에 관심이 있습니다.
+
+### skill
+<div width="100%">
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
+</div>
+<br/>
+<br/>
+
+### active
+- CS-study 
+- [구름X인프런] 자바 스프링 & 리액트 풀스택 개발자 성장 과정 6기 (23.12 - 24.07)
+
+### project
 
 <!---
 namtndus/namtndus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
